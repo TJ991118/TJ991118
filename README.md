@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TJ991118
+- 👋 Hi, I’m GWR
 - 👀 I’m interested in FrontEnd Golang And Electronic tech
 - 🌱 I’m currently learning react and esp32
 - 💞️ I’m looking to collaborate on ...
